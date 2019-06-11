@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepItTest_UI", "KeepItTest\KeepItTest_UI.csproj", "{5FC37871-DD47-4914-862C-FEDAD6268DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepItTest_API", "KeepItTest_API\KeepItTest_API.csproj", "{1AB64449-EADD-46AF-8E2C-3957C462BA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC37871-DD47-4914-862C-FEDAD6268DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC37871-DD47-4914-862C-FEDAD6268DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC37871-DD47-4914-862C-FEDAD6268DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC37871-DD47-4914-862C-FEDAD6268DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB64449-EADD-46AF-8E2C-3957C462BA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB64449-EADD-46AF-8E2C-3957C462BA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB64449-EADD-46AF-8E2C-3957C462BA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB64449-EADD-46AF-8E2C-3957C462BA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76908941-7B4C-4750-BE1C-72D3B8466CB7}
+	EndGlobalSection
+EndGlobal
